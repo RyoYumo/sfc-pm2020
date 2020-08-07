@@ -5,7 +5,7 @@
 乱数でシミュレーションしてもかまいませんし、あらゆる可能性を数えあげてもかまいません
 
 # DEMO
-![output](https://user-images.githubusercontent.com/23047341/89668992-aa223600-d919-11ea-96e8-0691a9a39d2d.gif)
+![output](https://user-images.githubusercontent.com/23047341/89670261-e060b500-d91b-11ea-9817-fa38adb746bb.gif)
 
 # Requirement
 * openFrameworks v0.11.0
