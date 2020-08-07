@@ -1,5 +1,11 @@
 #include "ofMain.h"
 
+/*
+ [課題2: 状態遷移プログラム]
+ 簡単な状態遷移プログラムを書いて下さい
+
+*/
+
 using StateRef = std::shared_ptr<class BaseWriteState>;
 
 class BaseWriteState {
